@@ -1,0 +1,5 @@
+C:\Users\20142014040310\Desktop\Area do triangulo\Area do triangulo\Area do triangulo\bin\Debug\Area do triangulo.exe.config
+C:\Users\20142014040310\Desktop\Area do triangulo\Area do triangulo\Area do triangulo\bin\Debug\Area do triangulo.exe
+C:\Users\20142014040310\Desktop\Area do triangulo\Area do triangulo\Area do triangulo\bin\Debug\Area do triangulo.pdb
+C:\Users\20142014040310\Desktop\Area do triangulo\Area do triangulo\Area do triangulo\obj\Debug\Area do triangulo.exe
+C:\Users\20142014040310\Desktop\Area do triangulo\Area do triangulo\Area do triangulo\obj\Debug\Area do triangulo.pdb

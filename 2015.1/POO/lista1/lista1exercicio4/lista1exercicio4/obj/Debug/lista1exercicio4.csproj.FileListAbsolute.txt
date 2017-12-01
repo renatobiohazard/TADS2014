@@ -1,0 +1,5 @@
+C:\Users\dgti\Desktop\lista1\lista1exercicio4\lista1exercicio4\bin\Debug\lista1exercicio4.exe.config
+C:\Users\dgti\Desktop\lista1\lista1exercicio4\lista1exercicio4\bin\Debug\lista1exercicio4.exe
+C:\Users\dgti\Desktop\lista1\lista1exercicio4\lista1exercicio4\bin\Debug\lista1exercicio4.pdb
+C:\Users\dgti\Desktop\lista1\lista1exercicio4\lista1exercicio4\obj\Debug\lista1exercicio4.exe
+C:\Users\dgti\Desktop\lista1\lista1exercicio4\lista1exercicio4\obj\Debug\lista1exercicio4.pdb

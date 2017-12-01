@@ -1,0 +1,5 @@
+C:\Users\20142014040310\Desktop\aula2\exercicio 3 aula 2\exercicio 3 aula 2\bin\Debug\exercicio 3 aula 2.exe.config
+C:\Users\20142014040310\Desktop\aula2\exercicio 3 aula 2\exercicio 3 aula 2\bin\Debug\exercicio 3 aula 2.exe
+C:\Users\20142014040310\Desktop\aula2\exercicio 3 aula 2\exercicio 3 aula 2\bin\Debug\exercicio 3 aula 2.pdb
+C:\Users\20142014040310\Desktop\aula2\exercicio 3 aula 2\exercicio 3 aula 2\obj\Debug\exercicio 3 aula 2.exe
+C:\Users\20142014040310\Desktop\aula2\exercicio 3 aula 2\exercicio 3 aula 2\obj\Debug\exercicio 3 aula 2.pdb

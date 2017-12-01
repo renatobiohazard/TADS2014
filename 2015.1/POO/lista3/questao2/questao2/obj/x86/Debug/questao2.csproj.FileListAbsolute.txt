@@ -1,0 +1,4 @@
+C:\Users\20142014040310.IFRN.000\Desktop\lista3\questao2\questao2\bin\Debug\questao2.exe
+C:\Users\20142014040310.IFRN.000\Desktop\lista3\questao2\questao2\bin\Debug\questao2.pdb
+C:\Users\20142014040310.IFRN.000\Desktop\lista3\questao2\questao2\obj\x86\Debug\questao2.exe
+C:\Users\20142014040310.IFRN.000\Desktop\lista3\questao2\questao2\obj\x86\Debug\questao2.pdb

@@ -1,0 +1,12 @@
+C:\Users\Gilbert\Documents\Visual Studio 2012\Projects\Aulas 2015_01\POO\App08\Ex01\bin\Debug\Ex01.exe.config
+C:\Users\Gilbert\Documents\Visual Studio 2012\Projects\Aulas 2015_01\POO\App08\Ex01\obj\Debug\Ex01.csprojResolveAssemblyReference.cache
+C:\Users\Gilbert\Documents\Visual Studio 2012\Projects\Aulas 2015_01\POO\App08\Ex01\bin\Debug\Ex01.exe
+C:\Users\Gilbert\Documents\Visual Studio 2012\Projects\Aulas 2015_01\POO\App08\Ex01\bin\Debug\Ex01.pdb
+C:\Users\Gilbert\Documents\Visual Studio 2012\Projects\Aulas 2015_01\POO\App08\Ex01\obj\Debug\Ex01.exe
+C:\Users\Gilbert\Documents\Visual Studio 2012\Projects\Aulas 2015_01\POO\App08\Ex01\obj\Debug\Ex01.pdb
+C:\Users\08165048490\Downloads\App08\Ex01\bin\Debug\Ex01.exe.config
+C:\Users\08165048490\Downloads\App08\Ex01\obj\Debug\Ex01.exe
+C:\Users\08165048490\Downloads\App08\Ex01\obj\Debug\Ex01.pdb
+C:\Users\08165048490\Downloads\App08\Ex01\bin\Debug\Ex01.exe
+C:\Users\08165048490\Downloads\App08\Ex01\bin\Debug\Ex01.pdb
+C:\Users\08165048490\Downloads\App08\Ex01\obj\Debug\Ex01.csprojResolveAssemblyReference.cache

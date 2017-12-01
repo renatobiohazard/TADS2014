@@ -1,0 +1,12 @@
+C:\Users\dgti\Documents\Visual Studio 2012\ex01\ex01\bin\Debug\ex01.exe.config
+C:\Users\dgti\Documents\Visual Studio 2012\ex01\ex01\bin\Debug\ex01.exe
+C:\Users\dgti\Documents\Visual Studio 2012\ex01\ex01\bin\Debug\ex01.pdb
+C:\Users\dgti\Documents\Visual Studio 2012\ex01\ex01\obj\Debug\ex01.csprojResolveAssemblyReference.cache
+C:\Users\dgti\Documents\Visual Studio 2012\ex01\ex01\obj\Debug\ex01.exe
+C:\Users\dgti\Documents\Visual Studio 2012\ex01\ex01\obj\Debug\ex01.pdb
+C:\Users\20142014040310\Desktop\ex01\ex01\bin\Debug\ex01.exe.config
+C:\Users\20142014040310\Desktop\ex01\ex01\obj\Debug\ex01.exe
+C:\Users\20142014040310\Desktop\ex01\ex01\obj\Debug\ex01.pdb
+C:\Users\20142014040310\Desktop\ex01\ex01\bin\Debug\ex01.exe
+C:\Users\20142014040310\Desktop\ex01\ex01\bin\Debug\ex01.pdb
+C:\Users\20142014040310\Desktop\ex01\ex01\obj\Debug\ex01.csprojResolveAssemblyReference.cache

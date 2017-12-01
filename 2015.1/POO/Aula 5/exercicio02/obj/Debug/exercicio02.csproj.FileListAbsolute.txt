@@ -1,0 +1,5 @@
+C:\Users\20142014040310\Desktop\ex01\exercicio02\bin\Debug\exercicio02.exe.config
+C:\Users\20142014040310\Desktop\ex01\exercicio02\bin\Debug\exercicio02.exe
+C:\Users\20142014040310\Desktop\ex01\exercicio02\bin\Debug\exercicio02.pdb
+C:\Users\20142014040310\Desktop\ex01\exercicio02\obj\Debug\exercicio02.exe
+C:\Users\20142014040310\Desktop\ex01\exercicio02\obj\Debug\exercicio02.pdb
